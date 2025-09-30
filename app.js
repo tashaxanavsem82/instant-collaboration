@@ -8,4 +8,4 @@ editor.addEventListener('input', () => {
 });
 
 // Placeholder for chat functionality
-chat.innerHTML = '<p>Chat functionality will be implemented here.</p>';
+chat.innerHTML = '<p>Chat feature is under development. Stay tuned!</p>';
