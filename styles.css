@@ -9,7 +9,7 @@ body {
     max-width: 800px;
     margin: auto;
     background: #ffffff;
-    padding: 20px;
+    padding: 30px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -17,10 +17,11 @@ body {
 #editor {
     height: 400px;
     border: 1px solid #ddd;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 #chat {
     border: 1px solid #ddd;
     height: 200px;
+    margin-top: 20px;
 }
